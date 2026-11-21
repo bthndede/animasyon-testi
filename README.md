@@ -4,7 +4,7 @@ GitHub'da animasyonlar oynuyor mu diye deneme.
 
 ## 1) ALTAY — 3B render (animasyonlu WebP)
 
-<img src="./assets/altay.webp" width="100%" alt="ALTAY 3B render"/>
+<img src="./assets/altay-v2.webp" width="100%" alt="ALTAY 3B render"/>
 
 ## 2) Banner — animasyonlu SVG
 
