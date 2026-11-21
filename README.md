@@ -27,6 +27,10 @@ Amacımız Türkiye'de ve dünyada uzay ve havacılık çalışmalarına katkı 
 
 2019'dan bugüne tasarladığımız, TEKNOFEST ve yarışmalarda temsil ettiğimiz **12 proje**.
 
+<img src="./assets/altay-v2.webp" width="100%" alt="ALTAY · TEKNOFEST 2025"/>
+
+<img src="./assets/yolcu-v2.webp" width="100%" alt="YOLCU · TEKNOFEST 2024"/>
+
 #### 🛬 Dikey İnişli Roketler
 
 TEKNOFEST Dikey İnişli Roket Yarışması standartlarında; 300 bar basınçlı 9 litrelik kompozit tüp ve basınç regülatörleriyle beslenen **soğuk gaz itki sistemi**. Otonom itki yönlendirme (**TVC**), oransal solenoid valfler, **LiDAR** ve 6-DoF sensör verileriyle yumuşak ve kontrollü iniş.
@@ -44,17 +48,17 @@ TEKNOFEST Dikey İnişli Roket Yarışması standartlarında; 300 bar basınçl�
 
 Katı yakıtlı kompozit roket motorlarıyla **3000 m** (~10.000 ft) hedef irtifaya ulaşıp faydalı yük görevini yürüten roketler. Çift kademeli paraşüt kurtarma sistemi (apogee ve ana paraşüt), karbon fiber aerodinamik gövde ve özgün aviyonik uçuş bilgisayarları (**UKB**).
 
-| Görsel | Yıl | Proje | Derece | Kalkış kütlesi | Boy | Çap |
-|:---:|:---:|:------|:------:|:--------------:|:---:|:---:|
-| — | 2026 | **Özgün Hibrit Roket** 🔥 | — | 40,9 kg | 346 cm | 145 mm |
-| <img src="./assets/altay-v2.webp" width="260" alt="ALTAY"/> | 2025 | **ALTAY** | 🏆 TEKNOFEST 7. | 26,0 kg | 264 cm | 145 mm |
-| <img src="./assets/yolcu-v2.webp" width="260" alt="YOLCU"/> | 2024 | **YOLCU** | Finalist | 26,8 kg | 270 cm | 146 mm |
-| — | 2023 | **PUSULA** | 🏆 TEKNOFEST 5. | 28,0 kg | 252 cm | 146 mm |
-| — | 2022 | **FIREBENDER** (Eagles) | Finalist | 28,3 kg | 278 cm | 130,8 mm |
-| — | 2022 | **YANKI** (Kuzgun) | Finalist | 28,7 kg | 260 cm | 146 mm |
-| — | 2021 | **YADİGAR** (Kuzgun) | Finalist | 27,7 kg | 306 cm | 130 mm |
-| — | 2021 | **AIRBENDER** (Eagles) | 🏆 TEKNOFEST 4. | 26,7 kg | 306 cm | 130 mm |
-| — | 2020 | **ŞAFAK** | Finalist | —* | 210 cm* | 102 mm* |
+| Yıl | Proje | Derece | Kalkış kütlesi | Boy | Çap |
+|:---:|:------|:------:|:--------------:|:---:|:---:|
+| 2026 | **Özgün Hibrit Roket** 🔥 | — | 40,9 kg | 346 cm | 145 mm |
+| 2025 | **ALTAY** | 🏆 TEKNOFEST 7. | 26,0 kg | 264 cm | 145 mm |
+| 2024 | **YOLCU** | Finalist | 26,8 kg | 270 cm | 146 mm |
+| 2023 | **PUSULA** | 🏆 TEKNOFEST 5. | 28,0 kg | 252 cm | 146 mm |
+| 2022 | **FIREBENDER** (Eagles) | Finalist | 28,3 kg | 278 cm | 130,8 mm |
+| 2022 | **YANKI** (Kuzgun) | Finalist | 28,7 kg | 260 cm | 146 mm |
+| 2021 | **YADİGAR** (Kuzgun) | Finalist | 27,7 kg | 306 cm | 130 mm |
+| 2021 | **AIRBENDER** (Eagles) | 🏆 TEKNOFEST 4. | 26,7 kg | 306 cm | 130 mm |
+| 2020 | **ŞAFAK** | Finalist | —* | 210 cm* | 102 mm* |
 
 <sub>Değerler Atışa Hazırlık Raporları'ndan (2026 için Kritik Tasarım Raporu'ndan). * Raporu henüz yok, değerler web sitesinden.</sub>
 
