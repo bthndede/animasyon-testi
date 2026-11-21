@@ -44,28 +44,23 @@ TEKNOFEST Dikey İnişli Roket Yarışması standartlarında; 300 bar basınçl�
 
 Katı yakıtlı kompozit roket motorlarıyla **3000 m** (~10.000 ft) hedef irtifaya ulaşıp faydalı yük görevini yürüten roketler. Çift kademeli paraşüt kurtarma sistemi (apogee ve ana paraşüt), karbon fiber aerodinamik gövde ve özgün aviyonik uçuş bilgisayarları (**UKB**).
 
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
+<p align="center">
 <img src="./assets/altay-v2.webp" width="100%" alt="ALTAY · TEKNOFEST 2025"/>
-<br/><b>ALTAY</b> · 2025 · 🏆 TEKNOFEST 7.
+<br/><b>ALTAY · 2025 · 🏆 TEKNOFEST 7.</b>
 <br/><sub>264 cm · Ø145 mm · 26,0 kg</sub>
-</td>
-<td width="50%" align="center" valign="top">
+</p>
+
+<p align="center">
 <img src="./assets/yolcu-v2.webp" width="100%" alt="YOLCU · TEKNOFEST 2024"/>
-<br/><b>YOLCU</b> · 2024 · Finalist
+<br/><b>YOLCU · 2024 · Finalist</b>
 <br/><sub>270 cm · Ø146 mm · 26,8 kg</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
+</p>
+
+<p align="center">
 <img src="./assets/pusula-v2.webp" width="100%" alt="PUSULA · TEKNOFEST 2023"/>
-<br/><b>PUSULA</b> · 2023 · 🏆 TEKNOFEST 5.
+<br/><b>PUSULA · 2023 · 🏆 TEKNOFEST 5.</b>
 <br/><sub>252 cm · Ø146 mm · 28,0 kg</sub>
-</td>
-<td width="50%"></td>
-</tr>
-</table>
+</p>
 
 | Yıl | Proje | Derece | Kalkış kütlesi | Boy | Çap |
 |:---:|:------|:------:|:--------------:|:---:|:---:|
