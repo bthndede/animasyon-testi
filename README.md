@@ -68,6 +68,12 @@ Katı yakıtlı kompozit roket motorlarıyla **3000 m** (~10.000 ft) hedef irtif
 <br/><sub>260 cm · Ø146 mm · 28,7 kg</sub>
 </p>
 
+<p align="center">
+<img src="./assets/airbender-v3.webp" width="100%" alt="AIRBENDER · TEKNOFEST 2021"/>
+<br/><b>AIRBENDER · 2021 · 🏆 TEKNOFEST 4.</b>
+<br/><sub>306 cm · Ø130 mm · 26,7 kg</sub>
+</p>
+
 | Yıl | Proje | Derece | Kalkış kütlesi | Boy | Çap |
 |:---:|:------|:------:|:--------------:|:---:|:---:|
 | 2026 | **Özgün Hibrit Roket** 🔥 | — | 40,9 kg | 346 cm | 145 mm |
