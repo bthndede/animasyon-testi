@@ -59,7 +59,7 @@ Katı yakıtlı kompozit roket motorlarıyla **3000 m** (~10.000 ft) hedef irtif
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="./assets/pusula-v1.webp" width="100%" alt="PUSULA · TEKNOFEST 2023"/>
+<img src="./assets/pusula-v2.webp" width="100%" alt="PUSULA · TEKNOFEST 2023"/>
 <br/><b>PUSULA</b> · 2023 · 🏆 TEKNOFEST 5.
 <br/><sub>252 cm · Ø146 mm · 28,0 kg</sub>
 </td>
