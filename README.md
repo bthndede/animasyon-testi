@@ -62,6 +62,12 @@ Katı yakıtlı kompozit roket motorlarıyla **3000 m** (~10.000 ft) hedef irtif
 <br/><sub>252 cm · Ø146 mm · 28,0 kg</sub>
 </p>
 
+<p align="center">
+<img src="./assets/yanki-v3.webp" width="100%" alt="YANKI · TEKNOFEST 2022"/>
+<br/><b>YANKI · 2022 · Finalist</b>
+<br/><sub>260 cm · Ø146 mm · 28,7 kg</sub>
+</p>
+
 | Yıl | Proje | Derece | Kalkış kütlesi | Boy | Çap |
 |:---:|:------|:------:|:--------------:|:---:|:---:|
 | 2026 | **Özgün Hibrit Roket** 🔥 | — | 40,9 kg | 346 cm | 145 mm |
