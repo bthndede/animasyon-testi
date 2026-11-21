@@ -27,10 +27,6 @@ Amacımız Türkiye'de ve dünyada uzay ve havacılık çalışmalarına katkı 
 
 2019'dan bugüne tasarladığımız, TEKNOFEST ve yarışmalarda temsil ettiğimiz **12 proje**.
 
-<img src="./assets/altay-v2.webp" width="100%" alt="ALTAY · TEKNOFEST 2025"/>
-
-<img src="./assets/yolcu-v2.webp" width="100%" alt="YOLCU · TEKNOFEST 2024"/>
-
 #### 🛬 Dikey İnişli Roketler
 
 TEKNOFEST Dikey İnişli Roket Yarışması standartlarında; 300 bar basınçlı 9 litrelik kompozit tüp ve basınç regülatörleriyle beslenen **soğuk gaz itki sistemi**. Otonom itki yönlendirme (**TVC**), oransal solenoid valfler, **LiDAR** ve 6-DoF sensör verileriyle yumuşak ve kontrollü iniş.
@@ -47,6 +43,21 @@ TEKNOFEST Dikey İnişli Roket Yarışması standartlarında; 300 bar basınçl�
 #### 🚀 Orta İrtifa Roketleri
 
 Katı yakıtlı kompozit roket motorlarıyla **3000 m** (~10.000 ft) hedef irtifaya ulaşıp faydalı yük görevini yürüten roketler. Çift kademeli paraşüt kurtarma sistemi (apogee ve ana paraşüt), karbon fiber aerodinamik gövde ve özgün aviyonik uçuş bilgisayarları (**UKB**).
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="./assets/altay-v2.webp" width="100%" alt="ALTAY · TEKNOFEST 2025"/>
+<br/><b>ALTAY</b> · 2025 · 🏆 TEKNOFEST 7.
+<br/><sub>264 cm · Ø145 mm · 26,0 kg</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<img src="./assets/yolcu-v2.webp" width="100%" alt="YOLCU · TEKNOFEST 2024"/>
+<br/><b>YOLCU</b> · 2024 · Finalist
+<br/><sub>270 cm · Ø146 mm · 26,8 kg</sub>
+</td>
+</tr>
+</table>
 
 | Yıl | Proje | Derece | Kalkış kütlesi | Boy | Çap |
 |:---:|:------|:------:|:--------------:|:---:|:---:|
