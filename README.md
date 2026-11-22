@@ -69,9 +69,21 @@ Katı yakıtlı kompozit roket motorlarıyla **3000 m** (~10.000 ft) hedef irtif
 </p>
 
 <p align="center">
+<img src="./assets/yadigar-v3.webp" width="100%" alt="YADİGAR · TEKNOFEST 2021"/>
+<br/><b>YADİGAR · 2021 · Finalist</b>
+<br/><sub>306 cm · Ø130 mm · 27,7 kg</sub>
+</p>
+
+<p align="center">
 <img src="./assets/airbender-v3.webp" width="100%" alt="AIRBENDER · TEKNOFEST 2021"/>
 <br/><b>AIRBENDER · 2021 · 🏆 TEKNOFEST 4.</b>
 <br/><sub>306 cm · Ø130 mm · 26,7 kg</sub>
+</p>
+
+<p align="center">
+<img src="./assets/safak-v3.webp" width="100%" alt="ŞAFAK · TEKNOFEST 2020"/>
+<br/><b>ŞAFAK · 2020 · Finalist</b>
+<br/><sub>210 cm · Ø102 mm</sub>
 </p>
 
 | Yıl | Proje | Derece | Kalkış kütlesi | Boy | Çap |
