@@ -69,6 +69,12 @@ Katı yakıtlı kompozit roket motorlarıyla **3000 m** (~10.000 ft) hedef irtif
 </p>
 
 <p align="center">
+<img src="./assets/firebender-v3.webp" width="100%" alt="FIREBENDER · TEKNOFEST 2022"/>
+<br/><b>FIREBENDER · 2022 · Finalist</b>
+<br/><sub>278 cm · Ø130,8 mm · 28,3 kg</sub>
+</p>
+
+<p align="center">
 <img src="./assets/yadigar-v3.webp" width="100%" alt="YADİGAR · TEKNOFEST 2021"/>
 <br/><b>YADİGAR · 2021 · Finalist</b>
 <br/><sub>306 cm · Ø130 mm · 27,7 kg</sub>
